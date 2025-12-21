@@ -1,15 +1,14 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+  "index": "Overview",
+  "study": "Study Abroad",
+  "internship": "Internship Abroad",
+  "visitor": "Visitor/Tourist Visa",
+  "whv": "Work & Holiday Visa Australia",
+  "courses": "Courses",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://konsultanvisa.com/contact",
     "newWindow": true
   }
 }
