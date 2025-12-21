@@ -57,7 +57,6 @@ const config: DocsThemeConfig = {
   },
   search: {
     placeholder: "Search...",
-    loading: true,
   },
   feedback: {
     content: <></>,
